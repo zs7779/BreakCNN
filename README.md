@@ -1,4 +1,4 @@
-# BreakCNN
+# Break a Convolutional Network
 
 A few examples that generates adversarial images to fool some neural networks. 
 Following http://karpathy.github.io/2015/03/30/breaking-convnets/
