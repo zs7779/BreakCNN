@@ -7,6 +7,7 @@ Following http://karpathy.github.io/2015/03/30/breaking-convnets/
 Need IPython Notebook installed
 
 Need Python 3 (I think)
+DDDDDD
 
 Need Numpy, Tensorflow, Matplotlib
 
